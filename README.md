@@ -1,0 +1,1 @@
+Labs that I completed in my CP341 Natural Language Processing class at Colorado College. Topics include tokenization, Hidden Markov Models with Part of Speech tagging, Glove Vectors, and classification tasks. 
